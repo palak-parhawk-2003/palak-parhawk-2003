@@ -156,7 +156,12 @@
 
 ## &#x1f4c8; My GitHub Stats
 
+<img src ="https://github-readme-stats.vercel.app/api?username=palak-parhawk-2003&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=palak-parhawk-2003"/>
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=palak-parhawk-2003&layout=compact"/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=palak-parhawk-2003&theme=radical)](https://github.com/palak-parhawk-2003/github-profile-trophy)
 
