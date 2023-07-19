@@ -73,19 +73,6 @@
             </tr>
         </tbody>
     </table>
-
-### Backend End
-
-<table>
-        <tbody>
-            <tr valign="top">
-                <td width="80px" align="center">
-                <span><strong>PHP</strong></span><br>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-                </td>
-            </tr>
-        </tbody>
-    </table>
     
 
 ### Database
