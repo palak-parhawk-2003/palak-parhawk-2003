@@ -1,9 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px"/>, I'm Palak Parhawk
 
-- 🔭 I’m currently studying in KIIT University                                            
-- 🌱 I’m currently Android Developer
+- 🔭 I’m currently studying in KIIT University
 - 👯 I’m looking to collaborate with live projects
-- 💬 Ask me about Android, Web Developement 
 - 📫 How to reach me: instagram :instagram.com/palakparhawk533/ 
 - 😄 Pronouns: She/Her
 ---
@@ -64,7 +62,7 @@
                 </td>
                 <td width="80px" align="center">
                 <span><strong>Tailwind</strong></span><br>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
                 </td>
             </tr>
         </tbody>
@@ -119,15 +117,4 @@
     </table>
     
 ---
-
-## &#x1f4c8; My GitHub Stats
-
-<img src ="https://github-readme-stats.vercel.app/api?username=palak-parhawk-2003&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=palak-parhawk-2003"/>
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=palak-parhawk-2003&layout=compact"/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=palak-parhawk-2003&theme=radical)](https://github.com/palak-parhawk-2003/github-profile-trophy)
 
