@@ -32,14 +32,6 @@
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />    
                 </td>
                 <td width="80px" align="center">
-                <span><strong>Kotlin</strong></span><br>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-                </td>
-                <td width="80px" align="center">
-                <span><strong>PHP</strong></span><br>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-                </td>
-                <td width="80px" align="center">
                 <span><strong>C</strong></span><br>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
                 </td>
