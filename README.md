@@ -62,6 +62,10 @@
                 <span><strong>Bootstrap</strong></span><br>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
                 </td>
+                <td width="80px" align="center">
+                <span><strong>Tailwind</strong></span><br>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+                </td>
             </tr>
         </tbody>
     </table>
@@ -97,23 +101,6 @@
         </tbody>
     </table>
 
----
-
----
-
-## Mobile Application Developement
-
-<table>
-        <tbody>
-            <tr valign="top">
-                <td width="80px" align="center">
-                <span><strong>Android Studio</strong></span><br>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-                </td>
-            </tr>
-        </tbody>
-    </table>
-    
 ---
 
 ---
