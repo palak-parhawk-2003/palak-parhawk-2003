@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently studying in KIIT University
 - 👯 I’m looking to collaborate with live projects
-- 📫 How to reach me: instagram :instagram.com/palakparhawk533/ 
+- 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/palak-parhawk-398721144/
 - 😄 Pronouns: She/Her
 ---
 
